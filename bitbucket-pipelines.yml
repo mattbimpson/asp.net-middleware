@@ -1,4 +1,4 @@
-image: mcr.microsoft.com/dotnet/core/runtime
+image: mcr.microsoft.com/dotnet/core/sdk
 
 pipelines:
   default:
